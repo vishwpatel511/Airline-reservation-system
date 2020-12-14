@@ -1,0 +1,13 @@
+C:\Users\vishw\source\repos\Programming practice\bin\Debug\netcoreapp3.1\Programming practice.exe
+C:\Users\vishw\source\repos\Programming practice\bin\Debug\netcoreapp3.1\Programming practice.deps.json
+C:\Users\vishw\source\repos\Programming practice\bin\Debug\netcoreapp3.1\Programming practice.runtimeconfig.json
+C:\Users\vishw\source\repos\Programming practice\bin\Debug\netcoreapp3.1\Programming practice.runtimeconfig.dev.json
+C:\Users\vishw\source\repos\Programming practice\bin\Debug\netcoreapp3.1\Programming practice.dll
+C:\Users\vishw\source\repos\Programming practice\bin\Debug\netcoreapp3.1\Programming practice.pdb
+C:\Users\vishw\source\repos\Programming practice\obj\Debug\netcoreapp3.1\Programming practice.csprojAssemblyReference.cache
+C:\Users\vishw\source\repos\Programming practice\obj\Debug\netcoreapp3.1\Programming practice.AssemblyInfoInputs.cache
+C:\Users\vishw\source\repos\Programming practice\obj\Debug\netcoreapp3.1\Programming practice.AssemblyInfo.cs
+C:\Users\vishw\source\repos\Programming practice\obj\Debug\netcoreapp3.1\Programming practice.csproj.CoreCompileInputs.cache
+C:\Users\vishw\source\repos\Programming practice\obj\Debug\netcoreapp3.1\Programming practice.dll
+C:\Users\vishw\source\repos\Programming practice\obj\Debug\netcoreapp3.1\Programming practice.pdb
+C:\Users\vishw\source\repos\Programming practice\obj\Debug\netcoreapp3.1\Programming practice.genruntimeconfig.cache
